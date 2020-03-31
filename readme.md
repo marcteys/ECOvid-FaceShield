@@ -5,6 +5,7 @@ A protective face shield fast to print and that use a minimum amount of material
 This face shield is currently used in ICU MIR  at Hopital Cochin (APHP, Paris).  It has been validated by the Hygiene Comitee of the hospital. 
 
 
+
 ## Print Settings
 
 The *.3mf* file is present on the repo.  Here are the important settings for the Ender 3 pro.  
@@ -27,6 +28,12 @@ The *.3mf* file is present on the repo.  Here are the important settings for the
 - Punch two holes on one side of the transparent shiedl, flip ot over and punch two more holes from the other side. 
 - Attach the transparent sheet
 - Sterilize
+
+
+
+## Edit the model
+
+The source model (*.blend*) is included.  I used the add-ons Measure-it, 3D-Print Toolbox,  Bool Tool, Curve Tools and Bezier Utilities.
 
 ## Credits 
 
