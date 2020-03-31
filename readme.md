@@ -2,7 +2,9 @@
 
 A protective face shield fast to print and that use a minimum amount of material. 
 
-This face shield is currently used in ICU MIR  at Hopital Cochin (APHP, Paris).  It has been validated by the Hygiene Comitee of the hospital. 
+This face shield is currently used in ICU MIR  at Hopital Cochin (APHP, Paris).  This design is validated by the Hygiene Comitee of the hospital. 
+
+![Render](https://raw.githubusercontent.com/marcteys/ECOvid-FaceShield/master/pictures/render-v2.png)
 
 
 
@@ -39,4 +41,6 @@ The source model (*.blend*) is included.  I used the add-ons Measure-it, 3D-Prin
 
 This face shiedl is a remix the one proposed by [Qualup](http://www.spiderbot.eu/covid-19-ecran-facial-imprime-sterilisable/)
 
+
+![Render](https://raw.githubusercontent.com/marcteys/ECOvid-FaceShield/master/pictures/face.jpg)
 
