@@ -4,6 +4,8 @@ A protective face shield fast to print and that use a minimum amount of material
 
 This face shield is currently used in ICU MIR  at Hospital Cochin (APHP, Paris).  This design is validated by the Hygiene Committee of the hospital. 
 
+You can read a thread on the design process, the tools used and the reasons for another design here on Twitter: https://twitter.com/marcteyssier/status/1245010785744683009
+
 ![Render](https://raw.githubusercontent.com/marcteys/ECOvid-FaceShield/master/pictures/render-v2.png)
 
 
