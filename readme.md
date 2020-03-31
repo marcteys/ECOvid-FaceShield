@@ -2,7 +2,7 @@
 
 A protective face shield fast to print and that use a minimum amount of material. 
 
-This face shield is currently used in ICU MIR  at Hopital Cochin (APHP, Paris).  This design is validated by the Hygiene Comitee of the hospital. 
+This face shield is currently used in ICU MIR  at Hospital Cochin (APHP, Paris).  This design is validated by the Hygiene Committee of the hospital. 
 
 ![Render](https://raw.githubusercontent.com/marcteys/ECOvid-FaceShield/master/pictures/render-v2.png)
 
@@ -27,7 +27,7 @@ The *.3mf* file is present on the repo.  Here are the important settings for the
 
 ### Steps
 - 3D print the face shield 
-- Punch two holes on one side of the transparent shiedl, flip ot over and punch two more holes from the other side. 
+- Punch two holes on one side of the transparent shield, flip it over and punch two more holes from the other side. 
 - Attach the transparent sheet
 - Sterilize
 
@@ -35,11 +35,19 @@ The *.3mf* file is present on the repo.  Here are the important settings for the
 
 ## Edit the model
 
-The source model (*.blend*) is included.  I used the add-ons Measure-it, 3D-Print Toolbox,  Bool Tool, Curve Tools and Bezier Utilities.
+The source (*.blend*) is included. It is composed of three separate parts, **External**, **Internal** and **Strap**. I rely on non-destructive modelling techniques and used a lot of boolean operations.
+
+To adjust the height of the stack, select each part and edit the value *count* of the *Array* modifier. 
+
+To export the model, select the 3 parts and click *Export* on the 3D-print panel.
+
+The following add-ons were used: Measure-it, 3D-Print Toolbox,  Bool Tool, Curve Tools and Bezier Utilities. Freestyle for rendering. 
+
+
 
 ## Credits 
 
-This face shiedl is a remix the one proposed by [Qualup](http://www.spiderbot.eu/covid-19-ecran-facial-imprime-sterilisable/)
+This face shield is a remix the one proposed by [Qualup](http://www.spiderbot.eu/covid-19-ecran-facial-imprime-sterilisable/)
 
 
 ![Render](https://raw.githubusercontent.com/marcteys/ECOvid-FaceShield/master/pictures/face.jpg)
