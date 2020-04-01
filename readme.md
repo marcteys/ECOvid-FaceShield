@@ -4,6 +4,12 @@ A protective face shield fast to print and that use a minimum amount of material
 
 This face shield is currently used in ICU MIR  at Hospital Cochin (APHP, Paris).  This design is validated by the Hygiene Committee of the hospital. 
 
+
+You can read a thread on the design process, the tools used and the reasons for another design here on Twitter: https://twitter.com/marcteyssier/status/1245010785744683009
+
+
+
+
 ![Render](https://raw.githubusercontent.com/marcteys/ECOvid-FaceShield/master/pictures/render-v2.png)
 
 
@@ -37,7 +43,7 @@ Here are the important settings for the Ender 3 pro.
 
 ## Edit the model
 
-The source (*.blend*) is included. It is composed of three separate parts, **External**, **Internal** and **Strap**. I relyo n non-destructive modelling techniques and used a lot of boolean operations.
+The source (*.blend*) is included. It is composed of three separate parts, **External**, **Internal** and **Strap**. I rely on non-destructive modelling techniques and used a lot of boolean operations.
 
 To adjust the height of the stack, select each part and edit the value *count* of the *Array* modifier. 
 
