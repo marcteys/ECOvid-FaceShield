@@ -25,6 +25,7 @@ Here are the important settings for the Ender 3 pro.
 - Generate support: *No*
 - Build plate adhesion Type: *Skirt*
 
+**Note:** It is important that there is no holes between the layers and the walls. Adujst your printer settings if you see that there is a hole between two walls: Change the setting *Fill gaps between walls*  to * Everywhere* if it's the case.
 
 ## Fabrication
 
