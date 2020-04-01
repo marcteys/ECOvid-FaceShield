@@ -2,6 +2,8 @@
 
 A protective face shield fast to print and that use a minimum amount of material. 
 
+The face shield prints in **20 minutes** and uses only **2.35m** of filament.
+
 This face shield is currently used in ICU MIR  at Hospital Cochin (APHP, Paris).  This design is validated by the Hygiene Committee of the hospital. 
 
 
@@ -18,10 +20,14 @@ You can read a thread on the design process, the tools used and the reasons for 
 
 The *.curaprofile* is present on this repo, as well as some *.3mf* files. The profile can be imported on `Preferences>Configure Cura>Profiles>Import`. 
 
-Here are the important settings for the Ender 3 pro.  
+Here are the important settings with a 0.4 nozzle. 
+- Layer height: *0.38mm*
+- Initial layer height: *0.28mm*
+- Line width: *0.46mm* 
 - Fill gaps between walls: *Nowhere*
-- Infill density 80%
-- Print speed 80 mm/s
+- Infill density *80%*
+- Print speed: *90 mm/s*
+- Initial layer speed: *25 mm/s*
 - Generate support: *No*
 - Build plate adhesion Type: *Skirt*
 
