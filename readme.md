@@ -42,6 +42,7 @@ Here are the important settings with a 0.4 nozzle.
 
 ### Steps
 - 3D print the face shield 
+- Setup your hole puncher to A6 settings
 - Punch two holes on one side of the transparent shield, flip it over and punch two more holes from the other side. 
 - Attach the transparent sheet
 - Sterilize
